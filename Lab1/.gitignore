@@ -1,0 +1,19 @@
+# system folder
+__pycache__/*
+.vscode
+
+# data folder
+testImage/*
+images/*
+data*/*
+model*/*
+*.json*
+*.csv
+
+# model
+*.h5
+
+# log
+log
+
+# testing
